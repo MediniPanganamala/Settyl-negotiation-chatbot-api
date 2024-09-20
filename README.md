@@ -19,7 +19,7 @@
 - Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/medininegotiation-chatbot-api.git](https://github.com/MediniPanganamala/Settyl-negotiation-chatbot-api/new/main?filename=README.md)
+   git clone https://github.com/MediniPanganamala/Settyl-negotiation-chatbot-api
 2.Navigate to the project directory
   cd negotiation-chatbot-api
 3.Install the required packages:
